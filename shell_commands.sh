@@ -1,6 +1,6 @@
 #!/bin/bash
 
-plantcv-workflow.py --config sorghum_morphology_workflow_config.json
+plantcv-workflow.py --config multi_plant_workflow_config.json
 
-plantcv-utils.py json2csv --json sorghum_results.json --csv sorghum_subset_data
+plantcv-utils.py json2csv --json multi_plant_results.json
 
