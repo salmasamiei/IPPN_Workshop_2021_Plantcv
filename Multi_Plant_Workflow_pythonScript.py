@@ -1,23 +1,3 @@
-Multi_Plant_Workflow_pythonScript.py
-Not shared
-Type
-Text
-Size
-11 KB
-Storage used
-22 KB
-Location
-IPPN_Workshop_Plantcv
-Owner
-me
-Modified
-Jul 2, 2021 by me
-Opened
-6:42 PM by me
-Created
-Jul 2, 2021 with Google Drive Web
-Add a description
-Viewers can download
 #!/usr/bin/env python
 # coding: utf-8
 
@@ -79,7 +59,7 @@ def main():
 
     # ### 6) Save croped-rotated  image
 
-    cv2.imwrite("./croped_images/"+filename,img1)
+    cv2.imwrite("./cropped_images/"+filename,img1)
 
 
     # ### 7) Apply filtering
