@@ -1,7 +1,7 @@
 # IPPN workshop on plant phenotyping with mini-computers and low-cost cameras.
 July 2021 - University of Angers
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/salmasamiei/IPPN_Workshop_2021_Plantcv.git/Timelapse)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/salmasamiei/IPPN_Workshop_2021_Plantcv.git/Sequential_plants)
 # Hands-on Using Plantcv for pre-processing time-lapse sequenceimages.
 Salma Samiei
 ----------------------------
